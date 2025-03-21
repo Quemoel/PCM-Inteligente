@@ -4,7 +4,7 @@ import math
 import pandas as pd
 
 # Configuração da página
-st.set_page_config(page_title="PCM Inteligente", layout="centered", page_icon="🤖")
+st.set_page_config(page_title="PCM Inteligente", layout="centered", page_icon="📈")
 
 # Estilo CSS customizado
 st.markdown("""
