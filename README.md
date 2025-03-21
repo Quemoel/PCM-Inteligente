@@ -1,4 +1,5 @@
 # PCM Inteligente
+![Captura de Tela](Captura%20de%20tela%202025-03-21%20150502.png)
 
 **PCM Inteligente** é uma aplicação desenvolvida com Streamlit para realizar cálculos inteligentes para o planejamento de manutenção, permitindo o acompanhamento de indicadores como CPMR, Apropriação de Horas por Tipo de Manutenção, Confiabilidade Projetada, MTBF, MTTR e outros. A ferramenta é especialmente útil para profissionais de manutenção e planejamento que buscam otimizar recursos e melhorar a tomada de decisões.
 
